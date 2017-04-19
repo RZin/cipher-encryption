@@ -9,7 +9,7 @@ Decryption - making encrypted messages readable
 Plaintext - the original message
 Ciphertext - the encrypted message
 
-  Plaintext        shift      Ciphertext     
- 'abc'               2        'cde'        
- 'Hello, World!'     5        'Mjqqt, Btwqi!'   
+  Plaintext:  'abc'       shift:   2    Ciphertext:  'cde'   
+  
+  Plaintext:  'Hello, World!'       shift:   5    Ciphertext:  'Mjqqt, Btwqi!'  
  
