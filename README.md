@@ -1,3 +1,15 @@
 # cipher-encryption
-encrypts message and decrypts
-# made some changes
+
+Encrypts message and decrypts
+this code encrypts Plaintext from message.txt and writes Ciphertext to encrypted.txt
+and reads Ciphertext from encrypted.txt and writes Original text to original.txt
+
+Encryption - the process of encoding messages to make them unreadable
+Decryption - making encrypted messages readable
+Plaintext - the original message
+Ciphertext - the encrypted message
+
+  Plaintext        shift      Ciphertext     
+ 'abc'               2        'cde'        
+ 'Hello, World!'     5        'Mjqqt, Btwqi!'   
+ 
